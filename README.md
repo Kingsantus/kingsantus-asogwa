@@ -1,3 +1,12 @@
 # kingsantus-asogwa
-My Portfolio Site, containing all the works I have being doing alone and with peers.
-I don't have an industry experience but I can develop an industry ready site.
+Welcome to my Portfolio Website, where I showcase the web applications and projects I've built—both independently and collaboratively.
+
+While I may not have industry experience, I have the skills, passion, and technical expertise to develop production-ready, scalable, and high-performing applications.
+
+💡 What I Bring:
+✔️ Full Stack Development (Frontend & Backend)
+✔️ Scalable & Responsive Web Apps
+✔️ Clean, Maintainable Code
+✔️ Problem-Solving & Innovation
+
+Check out my work and see what I can build! 🚀
